@@ -1,0 +1,122 @@
+Problem Statement – How will we represent a binary tree? We can use a bracket structure for all of the edges, like (Parentnode , Childnode). Now if we use a node in a child node more than once, the tree can not be valid. Same for the parent node, a node can not be taken more than twice in  a graph as a parent node.
+
+Suppose we see this one graph
+
+(P,Q)(P,R)(Q,T)(R,W)(U,V)(Q,S)(R,U)(U,Z)(S,I)(W,Y)
+
+A tree with those edges may be illustrated in many ways.Here are two:
+
+                   P                            P
+
+                /    \                        /     \
+
+              Q      R                   Q      R
+
+            /   \     /    \               /   \    /  \
+
+          S   T   U   W           S    T  U  W
+
+            \        / \     \          /          / \      \
+
+             I     V  Z    Y      I         Z  V    Y
+
+The following is a recursive definition for the S-expression of a tree.
+
+S-exp(node)=(node->val(S-exp(node->first_child))(S-exp(node->second_child))),if node
+
+!NULL=””,node= =NULL
+
+         Where first_child->val<second _child->val(first_child->val is lexicographically than second_child->val)
+
+This tree can be represented in S-expression in multiple ways.The lexicographically smallest way of expressing it as follows:
+
+P(Q(S(I))(T))(R(U(V)(Z))(W(Y))))
+
+ 
+
+Translate the node-pair representation into its lexicographically smallest S-expression or report any errors that do not conform to the definition of the binary tree.
+
+The List of errors with their codes is as follows: 
+
+ 
+
+Error                               Reason
+
+Code Stopped1                More than 2 children
+
+Code Stopped2                Duplicate Edges
+
+Code Stopped3                Cycle Present(node is direct descendant of more than one node)
+
+Code Stopped4                Multiple Roots
+
+Code Stopped5                Any other error
+
+ 
+
+Functional Description
+
+ 
+
+Complete the function sExpression in the editor below.
+
+The function must return either the lexicographically lowest S-expression or the lexicographically lowest error code as a string.
+ 
+
+sExpression has the following parameter(s):
+
+Nodes:a string of space-separated parenthetical elements,each of which contains the name of two nodes connected by a comma.
+ 
+
+Constraints:
+
+All node names are single characters in the range ascii[A-Z].
+The maximum node count is 26.
+There is no specific order to the input (parent,child) pairs.
+ 
+
+>Input Format for Custom Testing
+
+>Sample Case 0
+
+Sample Input 0
+
+(B,D) (D,E) (A,B) (C,F) (E,G) (A,C)
+
+Sample output 0
+
+(A(B(D(E(G))))(C(F)))
+
+Explanation 0
+
+A representation of tree is as follows:
+
+ 
+
+             A
+
+           /    \
+
+         B      C
+
+         /         \
+
+       D           F
+
+      /
+
+     E
+
+    /
+
+  G
+
+>Sample Case 1
+
+Input:
+
+(C,E)(D,F)(A,B)(A,C)(B,K)
+
+Output:
+
+A(B(K))(C(E)))D(F))
