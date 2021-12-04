@@ -1,0 +1,17 @@
+Print the prime numbers from 1 to N, where N is an input.
+
+Sample Input 1:
+
+15
+
+Sample Output 1:
+
+2       3       5       7       11      13
+
+Sample Input 2:
+
+5
+
+Sample Output 2:
+
+2       3       5
