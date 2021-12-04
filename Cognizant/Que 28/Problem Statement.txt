@@ -1,0 +1,23 @@
+Problem Statement : Given two integers, the task is to find the hamming distance between two integers. Hamming Distance between two integers is the number of bits that are different at the same position in both numbers.
+
+Example :
+
+Input 1:
+
+a= 10 , b =8
+
+Output 1:
+
+1
+
+Explanation: 10= 1010 , 8=1000 , No of different bits=1.
+
+Input 2:
+
+a=9, b=14
+
+Output 2:
+
+3
+
+Explanation: 9=1001 , 14=1110  , No. of different bits=3.
