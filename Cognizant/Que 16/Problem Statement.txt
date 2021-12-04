@@ -5,3 +5,15 @@ Summer – June to August,
 Autumn – September to November and,
 Winter – December to February.
 The month should be in the range of 1 to 12. If not the output should be “Invalid month”.
+Sample Input 1:
+
+Enter the month: 08
+Sample Output 1:
+
+Season: Summer
+Sample Input 2:
+
+Enter the month: 14
+Sample Output 2:
+
+Invalid month
