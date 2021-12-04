@@ -1,0 +1,57 @@
+Bela teaches his son to find the factors of the given numbers. When he provides a number to his son, he should tell the factors of that number. Help him to do this, by writing a program. 
+
+Note:
+
+If the input is zero (0) then the output will be "No Factors".
+If the input is any negative number, then first convert it positive solve.
+Sample Input 1:
+
+54
+
+Sample Output 1:
+
+Factors for 56 are:
+
+1
+
+2
+
+4
+
+7
+
+8
+
+14
+
+28
+
+56
+
+ 
+
+Sample Input 2:
+
+-256
+
+Sample Output 2:
+
+Factors of 256 are:
+
+1
+
+2
+
+4
+
+8
+
+16
+
+32
+
+64
+
+128
+
+256
