@@ -1,0 +1,7 @@
+Ananya Pandey’s professor has suggested her to prepare well for the lesson on seasons. While her professor says a month, she needs to tell the season corresponding to that month. Write a program to solve the above task.
+
+Spring – March to May,
+Summer – June to August,
+Autumn – September to November and,
+Winter – December to February.
+The month should be in the range of 1 to 12. If not the output should be “Invalid month”.
