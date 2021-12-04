@@ -1,0 +1,129 @@
+Problem Statement –  A company has a list of jobs to perform. Each job has a start time, end time and profit value. The manager has asked his employee Anirudh to pick jobs of his choice. Anirudh being greedy wants to select jobs for him in such a way that would maximize his earnings. 
+
+Given a list of jobs how many jobs and total earning are left for other employees once Anirudh
+
+Picks jobs of his choice.
+
+Note: Anirudh can perform only one job at a time.
+
+ 
+
+Input format:
+
+Each Job has 3 pieces of info – Start Time,End Time and Profit
+The first line contains the number of Jobs for the day. Say ‘n’. So there will be ‘3n lines following as each job has 3 lines.
+Each of the next ‘3n’ lines contains jobs in the following format:
+start_time
+end-time
+Profit
+start-time and end-time are in HHMM 24HRS format i.e. 9am is 0900 and 9PM is 2100
+
+ 
+
+Constraints
+
+The number of jobs in the day i.e’ is less than 10000
+0<_n<_10000
+start-time is always less than end time.
+ 
+
+Output format :-
+
+Program should return an array of 2 integers where
+1st one is number of jobs left and earnings of other employees
+
+
+
+Sample Input 1 :
+
+4
+
+0200
+
+0300
+
+10
+
+0400
+
+0700
+
+20
+
+0300
+
+0800
+
+30
+
+0900
+
+1000
+
+50
+
+ 
+
+Sample Output 1:
+
+1
+
+20
+
+ 
+
+Sample Explanation 1
+
+Chooses 1st, 3rd and 4th job cause they don’t overlap. So only second job is remaining.
+
+ 
+
+Sample Input 2:
+
+5
+
+0805
+
+0830
+
+100
+
+0835
+
+0900
+
+100
+
+0905
+
+0930
+
+100
+
+0935
+
+1000
+
+100
+
+1005
+
+1030
+
+100
+
+ 
+
+Sample output 2:
+
+0
+
+0
+
+ 
+
+Sample Explanation 2:
+
+Anirudh can work on all appointments as there are none overlapping.
+
+Hence 0 appointments and 0 earnings for other employees.
