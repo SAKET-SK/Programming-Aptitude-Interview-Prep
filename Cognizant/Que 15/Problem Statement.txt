@@ -1,0 +1,19 @@
+Here the user should give you two numbers for that you have to find the LCM of them,
+
+Where LCM is Lowest Common factor of two numbers is the smallest number that divides both of them.
+
+Sample Input 1:
+
+10 15
+
+Sample Output 1:
+
+30
+
+Sample Input 2:
+
+60 20
+
+Sample Output 2:
+
+60
