@@ -5,3 +5,4 @@
 2) https://www.programmingprep.com/cognizant-coding-questions/
 3) https://prepinsta.com/cognizant-genc-next/coding-questions/
 4) https://prepinsta.com/tcs-coding-questions/
+5) https://prepinsta.com/tcs-ninja/hands-on-coding/
