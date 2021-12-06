@@ -4,3 +4,4 @@
 1) https://prepinsta.com/cognizant/coding-questions/
 2) https://www.programmingprep.com/cognizant-coding-questions/
 3) https://prepinsta.com/cognizant-genc-next/coding-questions/
+4) https://prepinsta.com/tcs-coding-questions/
