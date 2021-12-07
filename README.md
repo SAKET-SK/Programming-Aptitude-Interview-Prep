@@ -6,3 +6,4 @@
 3) https://prepinsta.com/cognizant-genc-next/coding-questions/
 4) https://prepinsta.com/tcs-coding-questions/
 5) https://prepinsta.com/tcs-ninja/hands-on-coding/
+6) https://prepinsta.com/accenture/coding/
