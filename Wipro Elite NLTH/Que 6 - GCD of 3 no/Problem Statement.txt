@@ -1,0 +1,13 @@
+Program to calculate GCD of three numbers
+In this article we will discuss about GCD of three numbers. GCD of three integers (where integers not equal to zero) is largest positive integer that divides each of the three integers. For example GCD of 12 , 16 , 22 is 2 where factors of 12==>1,2,3,4,6,12
+factors of 16==>1,2,4,8,16
+factors of 22==>1,2,11,22
+common factors==>1,2
+greatest common factor==>2
+
+GCD of three numbers in java
+Algorithm for GCD of three numbers:
+Take Three Numbers num1, num2 and num3 as input.
+Initialize a variable i to minimum of num1 ,num2, num3 and loop until i is greater than or equal to 1.
+Check if i divides num1, num2, num3 completely or not. If divides completely then break the loop.
+Now , print the value of i.
