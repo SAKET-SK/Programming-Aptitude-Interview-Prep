@@ -1,0 +1,12 @@
+Sum of all odd digits of a Number
+Java program to print sum of all odd digits of a larger number is being explained in this article. Sum of all odd digits can be found by separating each digit from the number and checking whether the digit is odd or not, if odd then add that digit.
+
+Sample Input : 1234567
+Sample Output : 16
+Sum of odd digits of a number in java
+Approach
+Step 1: Take a long number as input from the user.
+Step 2: Extract a single digit from a number.
+Step 3: Check if digit is odd or not.
+Step 4: If digit is odd, then add the digit to variable sum.
+Step 5: Print the sum.
