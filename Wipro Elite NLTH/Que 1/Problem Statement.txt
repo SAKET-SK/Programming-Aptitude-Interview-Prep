@@ -1,0 +1,4 @@
+Prepsters Wipro NLTH Coding Question -1 :
+NOTE:- Please comment down the code in other languages as well below –
+
+Ques:  C Program to check if two given matrices are identical
