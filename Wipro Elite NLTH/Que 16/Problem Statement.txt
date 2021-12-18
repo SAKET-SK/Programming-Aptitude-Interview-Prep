@@ -1,0 +1,30 @@
+Wipro’s client eBay wants to run a campaign on their website, which will have the following parameters, eBay wants that on certain x products, they want to calculate the final price, for each product on eBay there will be a stock unit parameter, this parameter will denote, how many items are their in their fulfillment center
+
+Now, while these numbers if are positive means product x is available in the fulfillment center and if not than the product is not available and cannot be shipped to the customer 
+
+Now the price on for each product varies based on the distance of the customer from the fulfillment center. Now, each product is in different fulfillment zone. Now, these values are 00’s kms for each centurion km. The price available would further increase by factor distance.
+
+You’ve to find the maximum discount price for each product if the product can be shipped.
+
+Following are the input/output parameters :
+
+Input
+
+ The first line of the input will contain number of products.
+The second line will contain price for each of these products.
+The third line contains shipping distance in 00’s kms
+The fourth line contains SKU’s
+Output
+
+It will contain the final price for each deliverable item in SKU’s
+Example :
+
+Input:
+
+6
+87 103 229 41 8 86
+3 1 9 2 1 2
+7 -21 30 0 -4 -3
+Output
+
+261 2061
