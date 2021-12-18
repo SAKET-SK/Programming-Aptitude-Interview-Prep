@@ -7,3 +7,4 @@
 4) https://prepinsta.com/tcs-coding-questions/
 5) https://prepinsta.com/tcs-ninja/hands-on-coding/
 6) https://prepinsta.com/accenture/coding/
+7) https://prepinsta.com/wipro-nlth/placement-papers/coding-ability/
