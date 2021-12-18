@@ -1,0 +1,17 @@
+Problem:  in this first line you are required to take the input that set the number of elements to be inserted, the next line takes the elements as input.
+
+You are required to print the sum of maximum and minimum element of the list
+
+Test Case :
+
+Input : 6
+
+               55 87 46 21 34 79
+
+Output :  
+
+               108 
+
+Explanation : 
+
+               21 + 87 = 108
