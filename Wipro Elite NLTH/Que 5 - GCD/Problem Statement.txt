@@ -1,0 +1,12 @@
+Program to calculate GCD of Two Numbers 
+In this article, we will discuss about GCD of Two Numbers in Java. GCD of Two Numbers or integers (where integers not equal to zero) is largest positive integer that divides each of the integers. For example, GCD of  12 and 16 is 4 , where factors of 12==>1,2,4,6,12
+factors of 16==>1,2,4,8,16
+common factors are 1,2,4
+greatest common factor is 4.
+
+Program to check a number is prime or not in C++
+Algorithm for GCD of Two Numbers:
+Take Two Numbers num1 and num2 as input.
+Initialize a variable i to minimum of num1 and num2 and loop until i is greater than or equal to 1.
+Check if i divides num1 and num2 completely or not. If divides completely then break the loop.
+Now , print the value of i.
