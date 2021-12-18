@@ -1,0 +1,31 @@
+Matrix Multiplication in Java
+We can multiply two matrices in java using binary * operator. In case of matrix multiplication, one row element of first matrix is multiplied by all columns of second matrix. In this article, we will discuss about the multiplication of matrix in java
+
+Matrix Multiplication in java
+Matrix Multiplication in Java
+Obtaining a single matrix from the entries of two matrices by using a binary operation is known as Matrix multiplication. In simpler terms, if two matrices matrix1 and matrix2 of order a*b and b*c are multiplied, the matrix obtained is of the order a*c. 
+
+First Matrix :
+1 1 1 
+2 2 2 
+3 3 3 
+4 4 4 
+
+Second Matrix :
+1 1 1 1 
+2 2 2 2 
+3 3 3 3 
+
+Resultant Matrix:
+6 6 6 6 
+12 12 12 12 
+18 18 18 18 
+24 24 24 24
+ 
+
+Approach
+Take the two matrices as input to be multiplies.
+Create the new matrix mat3 to store the product of two matrices.
+Traverse each element of the two metrices and multiply them.
+Store this product in the new matrix at the corresponding index.
+Print the Resultant matrix.
