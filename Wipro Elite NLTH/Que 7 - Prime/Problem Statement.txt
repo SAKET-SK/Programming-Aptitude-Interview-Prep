@@ -1,0 +1,14 @@
+Check if Number is Prime or Not
+A number is said to be Prime Number if and only if it is divisible by one and itself. In this article, we will discuss about the program to check if the given number is prime or not.
+
+Sample Input : 17
+Sample Output : 17 is a Prime Number
+Prime Number in java
+Steps to Check if the number is Prime or not
+Step 1: Take input as a function parameter.
+Step 2: Check if the number is less than to 1 or not. If it is less than 1, return false.
+Step 3: Check if no is less than or equal to 3 or not. If it is less than or equal to 3, return true.
+Step 4: Now, check if no is completely divisible by 2 or 3 or not. If it is complete divisible by 2 or 3 then return false.
+Step 5: Now, initialize  variable i to 5 and loop until i*i is less than or equal to or not and every time increment i with 6.
+Step 6: Check if the number if completely divisible by i or i+2 or not. If it is completely divisible then return false.
+Step 7: If the control reach to end then return true.
