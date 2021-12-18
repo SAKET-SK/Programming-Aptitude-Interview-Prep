@@ -1,0 +1,15 @@
+Problem: You are required to count the number of words in a sentence.
+You are required to pass all the test cases
+
+Test Cases :
+Test Case : 1
+Input : welcome to the world
+Output : 4
+
+Test Case : 2
+Input : [space] say hello
+Output : 2
+
+Test Case : 3
+Input : To get pass you need to study hard [space] [space]
+Output : 8
