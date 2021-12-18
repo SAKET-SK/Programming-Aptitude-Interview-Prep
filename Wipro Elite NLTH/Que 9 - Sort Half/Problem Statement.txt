@@ -3,3 +3,11 @@ In this article we will learn how to write a java program for sorting first half
 
 Input array : [3, 5, 2, 7, 9, 1]
 Output array : [1, 2, 3, 9, 7, 5]
+
+Algorithm for Sorting first half in ascending order and second half in descending order (Sort array ascending and descending order)
+Step 1 – Initialize a variable len, for accepting the length of the array.
+Step 2 – Take the input from the user using a for loop.
+Step 3 – Sort the inputted array in the ascending order.
+Step 4 – Use two for loops for printing the array
+Use the first loop from 0 to len/2 for printing the first ascending part of the array.
+Use the second for loop from len-1 to len/2 for printing the second descending part of the array.
