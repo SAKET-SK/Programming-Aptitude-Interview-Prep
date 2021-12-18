@@ -1,0 +1,12 @@
+Display Largest Element in 2-D Array
+In this article, we will discuss about largest element in each row in 2-D Array. Array has n-rows and m-columns , here our task is to write a program to Display the largest element in each row in a 2-D Array in Java.
+
+Sample input: a=[[1,2,3],[6,5,4],[8,9,7]]
+Sample output: 3 6 9
+Largest element in 2-D Array in java
+Approach
+Take the row and column of a matrix as input.
+Take  row*column space separated elements as input.
+Declare max variable and initialize it with the Minimum value of Integer.
+Traverse each element of a row and print it.
+At the end all the max element of each row get printed.
