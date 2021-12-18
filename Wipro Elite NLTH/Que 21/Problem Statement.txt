@@ -1,0 +1,17 @@
+Input
+The first line of input consists of three space separated integers. Num, start and end representing the size of list [N], the starting value of the range and the ending value of the range respectively.
+The second line of input consists N space separated integers representing the distances of the employee from the company.
+
+Output
+Print space separated integers representing the ID’s of the employee whose distance liew within the given range else return -1.
+
+Example
+Input
+6 30 50
+29 38 12 48 39 55
+
+Output
+1 3 4
+
+Explanation :
+There are 3 employees with id 1, 3, 4 whose distance from the office lies within the given range.
