@@ -1,0 +1,5 @@
+Sort array ascending and descending order in java
+In this article we will learn how to write a java program for sorting first half in ascending order and second half in descending order. Although it sounds a bit difficult but we’ll try to make it as easy as possible. Let’s take an example for understanding what we have to perform
+
+Input array : [3, 5, 2, 7, 9, 1]
+Output array : [1, 2, 3, 9, 7, 5]
