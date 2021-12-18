@@ -1,0 +1,16 @@
+Problem: First of all you need to input a whole sentence in the string, then you need to enter the target
+word.
+As an output you need to find the number of times that particular target word is repeated in the
+sentence.
+
+Test Cases :
+
+Test Case : 1
+Input : welcome world to the new world
+world
+Output : 2
+
+Test Case : 2
+Input : working hard and working smart both are different ways of working
+working
+Output : 3
