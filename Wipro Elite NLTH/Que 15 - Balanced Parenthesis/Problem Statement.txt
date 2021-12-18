@@ -1,0 +1,12 @@
+Balanced Parenthesis
+To check balanced parenthesis is a basic interview question where we are asked to find whether the given string(of brackets) is balanced or not. To do this , the traditional way of doing is using stacks but we can also find by using normal programming techniques. Different brackets are  ( ) , [ ] , { }. Question can be asked on any type of bracket or of all types of brackets.
+
+Sample input: ()(())
+Sample output: True
+Balanced Parenthesis in Java
+Algorithm
+Declare a character stack.
+Now traverse the expression string exp. 
+If the current character is a starting bracket (‘(‘ or ‘{‘ or ‘[‘) then push it to stack.
+If the current character is a closing bracket (‘)’ or ‘}’ or ‘]’) then pop from stack and if the popped character is the matching starting bracket then fine else brackets are not balanced.
+After complete traversal, if there is some starting bracket left in stack then “not balanced”
