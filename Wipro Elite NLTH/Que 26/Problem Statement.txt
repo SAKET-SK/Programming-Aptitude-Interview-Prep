@@ -1,0 +1,17 @@
+Problem:  in this first line you are required to take the input of an integer number, and in the second line you are required to input the target element 
+
+You are required to print the number of time target element occured in the integer
+
+Test Case :
+
+Input : 734139
+
+               3
+
+Output :  
+
+               2 
+
+Explanation : 
+
+               3 occured 2 times in the integer.
