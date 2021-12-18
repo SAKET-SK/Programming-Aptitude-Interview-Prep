@@ -1,0 +1,10 @@
+Remove Vowels from a String 
+In this article we will learn how to code a Java program to remove vowels from a string. ‘A’, ‘E’, ‘I’, ‘O’, ‘U’ are five vowels out of 26 characters in English alphabet letters. Java programming is case sensitive, and hence lowercase and uppercase characters are considered differently, so we will have to check for both the cases and then we can remove the vowels from a string
+
+Remove the vowels from a String in java
+Approach
+Step 1: Take input str as a String.
+Step 2: Convert the string into character array.
+Step 3: Traverse the complete array and check if the character present at particular index is vowel or not.
+Step 4: If the character if vowel the continue the loop else concatenate the character into resultant string.
+Step 5: Print the resultant string.
