@@ -37,7 +37,11 @@ Q4) Which design patterns do you use, and in what situations do you use them?
   However, the one I prefer and use most often is Iterator. This helps me code in an organized fashion and reduces the amount of time to develop the software. 
   It also results in fewer errors and less debugging.”
   
-  // Expect follow up questions like what is MVC, SIngleton and template.
+  // Expect follow up questions like what is MVC, Singleton and template.
+  Q) Explain MVC in detail
+  A model can be defined as the data that will be used by the program. Commonly used examples of models in MVC are the database, a simple object holding data (such as any     multimedia file or the character of a game), a file, etc.
+  A view is a way of displaying objects (user interfaces) within an application. This is the particular vertical through which end users will communicate.
+  A controller is the third vertical which is responsible for updating both models and views. It accepts input from users as well as performs the equivalent update. In other words, it is the controller which is responsible for responding to user actions.
   
 Q5) What was the most challenging software development problem you have worked on, and how did it turn out?
  Ans :- Explanation: An interviewer will ask this question to gain an understanding of the scope of your experience and the type of projects you have worked on in the past. 
