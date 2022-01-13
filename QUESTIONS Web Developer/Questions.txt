@@ -1,0 +1,85 @@
+Position Summary
+Web developers build websites with the purpose of providing an optimal user experience. They design the appearance of the website by creating webpage layouts 
+through stylistic choices such as colors and fonts.
+Web developers also handle the technical aspects of a website to ensure the website performs at maximum capacity. 
+This can include streamlining code and media to improve site speed as well as directing the user flow of a website.
+
+Q1) Why did you choose to pursue a career in web development?
+Explanation: This is a general or opening question which the interviewer will use to begin the conversation, learn more about your background, and uncover some 
+information they can use for future questions.
+Example: “I’ve always enjoyed technology and interacting with interesting websites and gaming applications. In college, my fascination with this turned into a vocation. 
+I enjoyed my IT-related classes the most and decided to pursue a career as a web developer. I really enjoy this work and have never looked back, 
+knowing I made the right choice.”
+
+Q2) Please describe a project you’ve developed and the approach you took from conception to launch.
+Explanation: This is another general question which is attempting to learn more about your background. Your answer should align with the type of projects the employer 
+is looking to hire you for. You can determine this by doing pre-interview research, visiting their website, and going to job boards to read how employees 
+describe the work they do.
+Example: “My favorite project was developing a website that provided educational resources to children. I enjoyed this because of the site’s focus, its content, 
+and working with children to determine how they would navigate the site both with and without parental supervision. It was a challenging project which turned 
+out well and is currently used by millions of kids.”
+
+Q3) How would you explain the concept of plug-ins to someone who doesn’t have a technical background?
+Explanation: An interviewer will ask this type of question to determine your understanding of a topic as well as your communication skills.  
+Describing technical subjects to nontechnical people requires you to avoid using jargon and any terms which the nontechnical person may not understand. 
+This is a common practice for web developers who need to collaborate with project stakeholders and other nontechnical individuals.
+Example: “When asked to describe a concept like plug-ins to a nontechnical person, I make sure to avoid using jargon and any technical terms they may 
+not understand. My answer would be something like this, 'Plug-ins are pieces of code that perform a specific function on a website. The advantage of 
+plug-ins is that they have already been developed and tested. Using them ensures the function will work properly and avoids me having to develop and 
+code the application myself. This makes my website more reliable and reduces the amount of time needed to develop it.'”
+
+Q4) What do you know about namespacing in JavaScript?
+Explanation: This is a technical question that asks you to define a term used in this job. Technical questions are best answered concisely and directly with little embellishment. 
+The interviewer will ask a follow-up question if they need additional information about the topic.
+Example: “In the context of JavaScript, a namespace is a global object with a unique name that holds methods, properties, and other objects. 
+Its purpose is to increase the modularity and reuse of code in web applications. It also hopes to prevent naming conflicts within the code.” 
+
+Q5) Can you tell me the differences between REST and SOAP?
+Explanation: This is another technical question in which the interviewer is asking you to compare two terms. The best way to respond to this is first to define 
+each term and then describe how it is used in website development. You should also anticipate a follow-up question once you provide your answer.
+Example: “REST and SOAP are both web service protocols. The difference between them is that SOAP uses XML, while REST supports JSON, text, and 
+several other formats. I prefer to use REST because of its flexibility and the options it provides.”
+
+Q6) What are some of the new input types that were included in HTML5?
+Explanation: This is another technical question in which the interviewer is seeking to understand your knowledge of HTM5. As a seasoned web developer, you should be 
+knowledgeable in a variety of different programming languages. While HTML5 has been around for some time, its new features should still be something you can address.
+Example: “When HTML5 was announced a few years ago, it came with several different features that were new to HTML. These features included daytime-local, e-mail, 
+month, number range, color, date, search, URL, and week. These features made it a lot easier to include these elements on a website without additional coding.”
+
+Q7) What content management systems (CMS) do you have experience with?
+Explanation: The interviewer is using this operational question to determine the scope of your knowledge with different content management systems 
+which are also known as CMS. Operational questions help the interviewer understand how you go about doing this job. Again, you should mention CMSs in your 
+answer that align with the same ones the employer uses. You can usually find these out by examining their website and looking at the source code. 
+Example: “Throughout my career, I have worked with several different content management systems. The ones I prefer include WordPress, Joomla, and Drupal. Of these, 
+I prefer WordPress. This is one of the most ubiquitous CMSs and has a large library of plug-ins and other components to work with.”
+
+Q8) How would you describe your SQL skills?
+Explanation: This is a direct question asking you to describe your skills with a specific operation used in website development. People usually have a tendency not 
+to brag or be too boisterous about their skills and qualifications. During an interview, you have to avoid this tendency. Now is the time for you to 
+brag about how good you are in certain areas. The interviewer is expecting this and will not be offended. The key is not overstating your qualifications. 
+This could be disastrous if they hired you, and you were not able to perform the required tasks.
+Example: “I have solid SQL skills. I’ve done quite a bit of work with both SQL Server and MySQL. I’m confident I can integrate the functionality of SQL into any website 
+I develop.”
+
+Q9) Which programming languages do you code in, and which of them do you prefer to work with?
+Explanation: There are many different languages you can use to design a website. The key is knowing and naming the same ones the employer’s development or design 
+team currently uses. This will align your skills with their current operations. You can locate this information before the interview by examining their websites 
+and searching for comments that current employees made about the employer on sites such as Glassdoor or Indeed.
+Example: “I am competent in several different programming languages used for web development and design. These include Python, JavaScript, CSS and HTML, C++, PHP, and C. 
+Of these, I prefer Python and JavaScript which I’ve noticed your organization uses for the websites you publish.”
+
+Q10) ave you ever done pair programming, and what do you think of it?
+Explanation: Pair programming is a relatively new development within the website development and design field. This involves two people working together to code a project. 
+If you have experience with this, you can state so and describe your preferences for designing a website using this methodology. 
+If you haven’t, you can express your familiarity with the practice and describe whether you would be inclined to use it in the future.
+Example: “While I have never used pair programming to design a website, I am familiar with the practice. I understand the benefits it provides by 
+including two different perspectives, background, and knowledge to design a website faster and more accurately. However, I do my best work in isolation 
+and would prefer to work alone whenever possible. I am open to peer review and often use it to increase the quality of my designs and to identify anything I may have missed.”
+
+Additional Web Developer Interview Questions
+Can you tell me what is in a grunt file?
+What is a JavaScript call-back function, and what is it used for?
+How would you troubleshoot slow-loading webpages?
+What is W3C, and why is it important?
+How do you stay up to date on industry trends?
+
