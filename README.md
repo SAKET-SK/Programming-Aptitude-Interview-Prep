@@ -8,3 +8,4 @@
 5) https://prepinsta.com/tcs-ninja/hands-on-coding/
 6) https://prepinsta.com/accenture/coding/
 7) https://prepinsta.com/wipro-nlth/placement-papers/coding-ability/
+8) https://myinterviewpractice.com/industries-details/information-technology/software-developer-interview-preparation/
