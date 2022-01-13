@@ -57,7 +57,33 @@ Q5) What was the most challenging software development problem you have worked o
  Example: “The methodology I use most and prefer is Agile. The reason I like this iterative framework is there are daily stand-ups in which the team gets together 
   to discuss the day’s development goals and any issues we’ve encountered. The other reason I prefer to use Agile methodology is because errors are 
   identified and corrected at each stage of the process. This results in better quality software and less debugging at the end of the project.”
+  
+Q7) What QA process have you worked with in the past?
+Ans :- Explanation: This is another operational question in which the interviewer is trying to determine the type of quality control systems you have worked with. They are looking to confirm that your processes are similar to the ones they use. Your experience doesn’t have to be an exact match, but you should be able to transition to their process as quickly as possible.
 
+Example: “Since I develop using the Agile framework, the quality control processes I use the most are the ones used within this framework. 
+I have worked with Waterfall, Just in Time, and SQA as well. I feel comfortable transitioning between QA processes, and I am confident I can easily adapt to anything you are using.”
+
+// Expect follow up questions here too
+
+Q8) How do you go about testing and finding bugs in applications you have developed?
+Explanation: This is a follow-up to the previous question. Now that you told the interviewer what QA processes you use, you should be able to describe how you go about testing and debugging software. During an interview, you should anticipate follow-up questions whenever you provide an answer to the interviewer. This is why you should keep your answers short and direct. It provides the interviewer with an opportunity to either dive deeper into the topic or move on to something new.
+Example: “When developing software, I use unit testing tools to identify errors in my code. I then go through a debugging process followed by more testing. Many people describe this process as White Box Testing. The debugging tools I use include gdb and dbx which are both public domain products. The reason I prefer these is they provide command-line interfaces that are easier for me to work with. Other tools I use include code-based tracers, profilers, and interpreters.”
+
+Q9) Can you describe what you know about object-oriented programming?
+Explanation: This is a technical question. Technical questions are meant to probe your knowledge, experience, and qualifications for the position for which you are interviewing. Technical questions are easily answered by first defining the term you are being asked about and then providing an example of how it is used in your profession.
+Example: “I use object-oriented programming quite a bit. My definition of this is that it is the type of programming in which you define the data structure and also define the types of operations which can be applied to the data. The benefit of this approach is that it helps you logically organize code around a specific parameter. It also makes code easier to be maintained and documented.”
+
+Q10) When you run into an obstacle during a software development project, how do you deal with it?
+Explanation: This is another operational question in which the interviewer is trying to determine the steps you take when you run into an obstacle or setback during a programming project. Some operational questions are best responded to by taking the interviewer through the process you use step by step. Again, remember to keep your answer short and to the point. The interviewer will ask a follow-up question if they need additional information.
+Example: “I have yet to work on a software development project where there haven’t been obstacles or setbacks. The key to dealing with them is to not get discouraged or distracted. I continue to focus on the task at hand and look for solutions to the obstacle I’ve encountered.  I utilize the collective knowledge of my entire team to help solve problems. When that doesn’t work, I turn to my programming resource guides, online resources, and other reference materials I can use to determine the best way to overcome the problem.”
+
+Additional Software Developer Interview Questions
+How can an application be tested apart from its testing functionality?
+When do you use polymorphism?
+Are you familiar with cloud systems?
+What would you do if a manager demanded delivery of software in an impossible deadline?
+What are some things you may consider while creating a database?
  
    
   
