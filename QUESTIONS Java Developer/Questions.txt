@@ -1,0 +1,84 @@
+Position Summary
+Java developers possess expert knowledge of one of the most diverse programming languages available. 
+It can be used for many applications, from creating and building web-based applications to designing sophisticated desktop applications.
+Java developers are in high demand due to their command of Java. They can use their coding skills across many platforms to integrate Java 
+into business applications, software, and websites, and to troubleshoot errors.
+
+Q1) Can you provide an overview of the critical features of the Java programming language?
+Explanation: This is an opening question which the interviewer will ask to start the conversation, learn more about your background, and collect information they can use 
+for subsequent questions.
+Example: “Java has become the world’s most popular programming language because of its many features. 
+These include its simplicity and ease of programming, the fact that it is object oriented, its portability across platforms, 
+the built-in security features, its robustness due to strong memory management, and its ability to create distributed applications.”
+
+Q2) Please define access modifiers and describe how they are used in Java.
+Explanation: This is a technical question. You can recognize technical questions due to their structure. They first ask you to define a term and then describe how it is 
+used for the function about which the interviewer is asking you.
+Example: “Access modifiers are keywords that establish accessibility to methods, classes, and other objects. There are four types, including public, protected, default, and private. Each of these describes how the 
+members within Java can be accessed and by whom.”
+
+Q3) What is the JDBC API, and how is it used within Java?
+Explanation: The interviewer is asking you another technical question. Technical questions are best answered directly and briefly. 
+The interviewer will ask a follow-up question if they need additional information or want to explore the topic in more depth.
+Example: “Java database connectivity or JDBC API enables Java to work with relational databases. This is part of the java.sql and javax.sql packages. 
+Its function is to run SQL worries, and stored procedures were then the relational database.”
+
+Q4) Can you briefly describe the different types of JDBC drivers and how they relate to the JDBC API?
+Explanation: This is a follow-up to the previous question. Any time you provide an answer to the interviewer, you can anticipate a follow-up question. 
+Keeping your answers brief and to the point will enable the interviewer to move on to the next question or explore the topic in more depth by asking a follow-up question.
+Example: “The JDBC drivers actually do the work such as issuing queries and extracting data once the JDBC API has connected to a relational database. 
+There are four types of JDBC drivers available. These include the ODBC driver, the native API partly Java technology-enabled driver, the pure Java driver for 
+database middleware, and the direct-to-database pure Java driver. Each of these functions differently when connecting to and extracting data from relational databases.”
+
+Q5) How do path and classpath variables differ from each other?
+Explanation: Another format a technical question can take is to provide you with two terms and ask you the difference between them. 
+The best way to structure your answer to this type of question is to define each term and then describe their function and how they differ. 
+An alternate form of this question may ask how the two terms relate to each other.
+Example: “Both path and classpath variables allow Java to locate executables within the code. Path is an environmental variable and contains the directory 
+location of executables. Classpath is specific to the Java programming language and is used for locating class files called by Java executables. 
+These have included ZIP files, JAR files, and others.”
+
+Q6)  There is some confusion as to whether Java is pass by or pass by reference. What do you believe, and why?
+Explanation: While this is a technical question, it also asks for your opinion. Sometimes, questions asking for opinions have no right answer. 
+The interviewer is merely trying to understand where you stand on a specific issue. However, in this question, there is a correct answer. 
+Knowing it will distinguish you as being qualified for this position.
+Example: “I have heard people describe Java as being either pass by reference or pass by value. According to the Java Spec, Java is pass by value. 
+This relates to the variable paths and method calling.”
+
+Q7) How does Java use the final keyword?
+Explanation: This is an operational question. Operational questions help the interviewer understand how you go about performing a specific task required by this position. 
+Like technical questions, operational questions are best answered directly and succinctly. The interviewer will ask you a follow-up question if they require 
+additional details.
+Example: “Java uses the final keyword with a class to make sure the other classes can’t extend it. It also ensures that different methods cannot be overridden 
+by any child class. Finally, it will classify variables as final so that it can only be assigned once.”
+
+Q8) What is Enum, and in what version of Java was it introduced?
+Explanation: You probably already recognized this is a technical question. As a Java developer, the majority of your interview will consist of technical and operational 
+questions. You should continue to answer these directly and concisely. Keep in mind that every answer may generate a follow-up question.
+Example: “Enum is a type whose field consists of a fixed set of constants. It was first introduced in Java version 1.5.  A Java developer will establish the 
+field and then define the constants which it can contain. These constants are final and implicitly.”
+
+Q9) How is composition used while programming in Java?
+Explanation: This is yet another technical question. As the interview progresses, the technical questions will become more specific and more difficult. 
+This indicates the interviewer is gaining confidence in your capabilities and is willing to explore more complex topics. 
+Continue to answer these more complicated technical questions the same way you did the easier ones.
+Example: “Composition is a design technique used in Java in several ways. It is used to implement a relationship between classes and also for code reuse. 
+It achieves this by using variables that refer to different objects. Its benefit is that it provides control over the visibility of objects and client classes when 
+the code is reused.”
+
+Q10) What function does the Java Reflection API perform?
+Explanation: This is a hybrid technical and operational question. First, it asks you to define a term and then discuss how it is used to perform a function. 
+The best way to prepare for this type of question is first to review the job description and identify the requirements for the position. You should then 
+research the company to better understand the type of programs they develop, the code they use, and their programming methodologies. 
+Finally, before the interview, take some time to review standard Java development terms, processes, and methodologies. The last step is to practice questions like these.
+Example: “The Java Reflection API gives the developer the ability to view and change the behavior of any application while it is running. 
+It allows you to inspect a variety of objects within Java and obtain their methods and details.”
+
+Additional JAVA Developer Interview Questions
+How would you scale access to a system such as Twitter?
+How would you handle the launch of a billing system?
+Have you ever gotten into a disagreement with a team member? How was it handled?
+Can you describe a Java tree and why it is important to balance them?
+What might cause a memory leak, and how would it be fixed?
+
+
