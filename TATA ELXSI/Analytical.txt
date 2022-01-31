@@ -79,3 +79,804 @@ a) Only conclusion (i) follows    <correct>
 b) Only conclusion (ii) follows
 c) Either (i) or (ii) follows
 d) Neither (i) nor (ii) follows
+
+
+Directions for Questions 6-10:
+
+Data sufficiency questions consist of a question followed by two statements. Need to decide whether the given information in the statements (taken singly or together) is sufficient to answer the question.
+
+
+
+6) How many students passed the exam if 20 students failed in the exam?
+
+I.Thousand students were issued hall tickets for the exam.
+
+II. 10% of the students who appeared for the exam failed.
+
+
+
+a) If the question cannot be answered even with the help of both the statements together.
+
+b) If the question can be answered with the help of statement II alone.
+
+c) If the question can be answered with the help of statement I alone.
+
+d) If the question can be answered with the help of both statements together.
+
+Ans: b
+
+
+
+Explanation:
+
+Information given in the question has to be noted first. The number of students who failed is given as 20. The statement I alone is not sufficient since the number of students who appeared is not known.
+
+Using statement II alone, if 10% of the students appeared have failed, then 90% of students appeared have passed. It is given in the question that 20 students have failed. 10% of appeared =20, 90% of appeared can be found.
+
+
+
+7) What is the value of X?
+
+I. X4= 2401
+
+II.X2+ 3X - 24 = 0.5(6X + 50)
+
+
+
+a) If the question cannot be answered even with the help of both the statements together.
+
+b) If the question can be answered with the help of statement II alone.
+
+c) If the question can be answered with the help of statement I alone.
+
+d) If the question can be answered with the help of both statements together.
+
+Ans: a
+
+
+
+Explanation:
+
+From statement I, we obtain X = +7 or -7. As we cannot uniquely determine the value of X, statements I alone Is not sufficient to answer the question.
+
+From statement II, we obtain X =+7 or -7. As we cannot uniquely determine the value of X. So, even the two statements together are not sufficient to answer the question.
+
+Hence the answer is a.
+
+
+
+8) If a salesman received a commission of 3% of the sales that he has booked in a month, what was the sale booked by the salesman in the month of November 2003?
+
+I. The sales booked by the salesman in the month of November 2003 minus salesman's commission was $245,000
+
+II. The selling price of the sales booked by the salesman in the month of November 2003 was 125 percent of the original purchase price of $225,000
+
+a) If the question can be answered with the either of the statement alone.
+
+b) If the question can be answered with the help of statement II alone.
+
+c) If the question can be answered with the help of statement I alone.
+
+d) If the question can be answered with the help of both statements together.
+
+Ans: a
+
+
+
+Explanation:
+
+From statement 1, we know the sales value after the salesman's commission is subtracted.
+
+From the question stem, we know his commission is 3% of the sales booked. Then the value of sales after subtracting his commission is 100 - 3 = 97% of the sales booked. Putting the two together, we can deduce that 97% of sales booked = $245,000. So we can find out the sales booked.
+
+
+
+9) Is the positive integer m divisible by 6?
+
+I. m is divisible by 3
+
+II. m is divisible by 4
+
+
+
+a) If the question cannot be answered even with the help of both the statements together.
+
+b) If the question can be answered with the help of statement II alone.
+
+c) If the question can be answered with the help of statement I alone.
+
+d) If the question can be answered with the help of both statements together.
+
+Ans: d
+
+
+
+Explanation:
+
+From statement 2, if m is divisible by 4, it will definitely be divisible by 2.
+
+So, by combining the two statements, we know that m is divisible by 3 and by 2. Hence, we can conclude that m is divisible by 6.
+
+
+
+10) What is the distance between Chandigarh and Delhi?
+
+I. Karnal is 130 km from Chandigarh.
+
+II. Delhi is 120 km from Karnal.
+
+a) If the question cannot be answered even with the help of both the statements together.
+
+b) If the question can be answered with the help of statement II alone.
+
+c) If the question can be answered with the help of statement I alone.
+
+d) If the question can be answered with the help of both statements together.
+
+Ans: a
+
+
+
+Explanation:
+
+Chandigarh, Karnal, and Delhi are in a straight line and Karnal lies between Chandigarh and Delhi.
+
+Even if it is given that these 3 cities are in straight line, still we have 2 possible answers to this question, even after combining the two statements i.e 250 km and 10 km.
+
+Since we are not getting any unique answer even after combining the two statements.
+
+
+
+Data Arrangements 11-12:
+
+
+
+11) In a college there are seven clubs: Drama, Astronomy, Music, Dance, Cookery, Debate and Science. Each of these clubs meets on a Different day of the week, one on each day beginning Sunday. The Drama club must meet on a Sunday. The Astronomy club meeting is held after both the Music and Dance club meeting are held. The Cookery, Debate and Science meetings must be held on consecutive days, though not in the same order.
+
+The music club meeting can be held, latest, on?
+
+a) Tuesday
+
+b) Wednesday
+
+c) Thursday
+
+d) Friday
+
+Ans: d
+
+
+
+Explanation:
+
+Since the drama club must be on a Sunday and the Astronomy Club must meet after the music club meeting can be held, latest on Friday.
+
+
+
+12) Which of the following clubs meet on 3 consecutive days?
+
+(I) Drama, Dance, Astronomy
+
+(II) Astronomy, Music, Debate
+
+(III) Dance, Cookery, Drama
+
+a) II only
+
+b) III only
+
+c) II and III only
+
+d) None
+
+Ans: d
+
+
+
+Explanation:
+
+The Science, Debate and Cookery Clubs can meet on three consecutive days.
+
+
+
+Data Arrangements 13-16:
+
+
+
+In a community dance of Arunachal Pradesh, eight persons form a circular group. In Republic day parade a group from Arunachal Pradesh consisting of Kavita, Laxmi, Munni, Nini, Oliver, Pallavi, Qunicy, Rehana presented this dance. All of them were related to one another due to which there were some constraints as to who would be beside whom. Laxmi, Munni, Nini -the only three women in the group -have to be side by side; Munni and Oliver have to be farthest from each other, and Qunicy and Kavita should have at least 3 others between them.
+
+
+
+13) If Nini is placed opposite to Pallavi and between Qunicy and Munni, then which of the following should be opposite to each other?
+
+a) Munni and Qunicy
+
+b) Laxmi and Rehana
+
+c) Oliver and Pallavi
+
+d) Pallavi and Rehana
+
+Ans: b
+
+
+
+Explanation:
+
+The arrangement will be
+
+2- Munni, 3- Nini, 4- Quincy, 5- Rehana, 6- Oliver, 7- Pallavi, 8- Kavita, 1- Laxmi, so, Laxmi and Rehana are opposite to each other.
+
+
+
+14) If Rehana is placed between Oliver and Qunicy, then Pallavi will be placed between?
+
+a) Oliver and Munni
+
+b) Oliver and Kavita
+
+c) Laxmi and Oliver
+
+d) Nini and Qunicy
+
+Ans: b
+
+
+
+Explanation:
+
+6- Oliver
+
+5- Rehana
+
+4- Quincy
+
+3
+
+2- Munni
+
+1
+
+8- Kavita
+
+7- Pallavi
+
+Thus, Pallavi is placed between Oliver and Kavita.
+
+
+
+15) If Laxmi is to be immediate left of Qunicy, then Munni should be on the immediate right of?
+
+a) Munni only
+
+b) Quincy only
+
+c) Kavita or Munni
+
+d) Munni or Nini
+
+Ans: c
+
+
+
+Explanation:
+
+1- L
+
+2- (N)
+
+3- (N)
+
+4- Kavita
+
+5-
+
+6-
+
+7-
+
+8- Qunicy
+
+N could occupy (2) or (3); so, should be on the immediate right of K or M.
+
+
+
+16) Qunicy is placed adjacent to Laxmi and Rehana. If there is only one person between Nini and Pallavi, then who should be that person?
+
+a) Kavita
+
+b) Munni
+
+c) Oliver
+
+d) Quincy
+
+Ans: a
+
+
+
+Explanation:
+
+1- Laxmi
+
+2- Munni
+
+3- Nini
+
+4- Kavita
+
+5- Pallavi
+
+7- Rehana
+
+8- Qunicy
+
+Thus, Kavita is between Nini and Pallavi.
+
+
+
+Cubes 17-20:
+
+
+
+The following questions are based on the information given below:
+
+A cuboid shaped wooden block has 6 cm length, 4 cm breadth, and 1 cm height.
+
+Two faces measuring 4 cm x 1 cm are colored in black.
+
+Two faces measuring 6 cm x 1 cm are colored in red.
+
+Two faces measuring 6 cm x 4 cm are colored in green.
+
+The block is divided into 6 equal cubes of side 1 cm (from 6 cm side), 4 equal cubes of side 1 cm(from 4 cm side).
+
+
+
+17) How many cubes having red, green and black colours on at least one side of the cube will be formed?
+
+a) 16
+
+b) 12
+
+c) 10
+
+d) 4
+
+Ans: d
+
+
+
+Explanation:
+
+Such cubes are related to the corners of the cuboid.
+
+Since the number of corners of the cuboid is 4.
+
+
+
+18) How many small cubes will be formed?
+
+a) 6
+
+b) 12
+
+c) 16
+
+d) 24
+
+Ans: d
+
+
+
+Explanation:
+
+Number of small cubes =l xb x h = 6 x 4 x 1 = 24
+
+
+
+19) How many cubes will have 4 colored sides and two non-colored sides?
+
+a) 4
+
+b) 8
+
+c) 16
+
+d) 10
+
+Ans: a
+
+Explanation:
+
+Only 4 cubes situated at the corners of the cuboid will have 4 colored and 2 non-colored sides.
+
+
+
+20) How many cubes will have green colour on two sides and rest of the four sides having no colour?
+
+a) 12
+
+b) 10
+
+c) 4
+
+d) 8
+
+Ans: d
+
+
+
+Explanation:
+
+There are 16 small cubes attached to the outer walls of the cuboid. Therefore remaining inner small cubes will be the cubes having two sides green colored. So the required number = 24 - 16 = 8
+
+
+
+Cubes 21-23:
+
+
+
+Each of the six faces of a cube is painted in exactly one of the four colors, A, B, C and D, where A, B, C, D corresponds to different colors such that each face is at least one face that is painted in each color. The cube is then placed on a table and cut into 60 identical small cuboids by making the least possible number of cuts, each cut being parallel to some face of the cube.
+
+
+
+21) What is the least possible number of small cuboids which have no face painted A?
+
+a) 15
+
+b) 20
+
+c) 24
+
+d) 40
+
+Ans: a
+
+
+
+Explanation:
+
+The given cube is cut into 60 identical cuboids with least number of cuts. This can be done when the dimensions of the cube are 3 x 4 x 5. Hence the number of cuts is 2 + 3 + 4 = 9.
+
+Now, we also need to select which 3 sides to paint with A, as the number of cuboids on each side are different. Naturally, we need to choose the three sides with the largest number of cuboids. This can be found on the two 5 x 4 faces and the 5 x 3 face. Also, these three faces are adjacent to each other. The two 5 x 4 faces will each contain 20 cuboids, a total of 40 cuboids. These faces lie exactly opposite each other.
+
+The 5 x 3 face will be between these two faces. This face has 15 cuboids out of which 10 are already accounted for. Hence this side gives 5 more cuboids painted in white. The total number of cuboids painted in white is hence 45. Therefore, a total of 15 (60 - 45) cuboids are not painted in white and this is the lowest such number.
+
+
+
+22) What is the maximum possible number of small cuboids which have more than one face painted in the same color?
+
+a) 9
+
+b) 10
+
+c) 12
+
+d) 14
+
+Ans: b
+
+
+
+Explanation:
+
+In the figure, the green colored highlighted area contains cuboids which have the same color lets say A. The other faces before it was cut are B, C, and D each with other different colors.
+
+
+
+23) What is the maximum possible number of small cuboids which have all the sides painted?
+
+a) 10
+
+b) 8
+
+c) 0
+
+d) 6
+
+Ans: c
+
+
+
+Explanation:
+
+No cuboid can have all the faces painted.
+
+
+
+Cubes 24-27:
+
+There are 128 cubes with me which are colored according to two schemes viz.
+
+64 cubes each having two red adjacent faces and one yellow and other blue on their opposite faces while green on the rest.
+
+64 cubes each having two adjacent blue faces and one red and other green on their opposite faces, while red on the rest. They are then mixed up.
+
+
+
+24) How many cubes have at least two colored red faces each?
+
+a) 0
+
+b) 32
+
+c) 64
+
+d) 128
+
+Ans: d
+
+
+
+Explanation:
+
+64 and 64 cubes of both types of cubes are such who have at least two colored faces red each. Therefore, the total number of the required cubes is 128.
+
+
+
+25) What is the total number of red faces?
+
+a) 0
+
+b) 64
+
+c) 320
+
+d) 128
+
+Ans: c
+
+
+
+Explanation:
+
+No. of red faces among first 64 cubes =64*2=128
+
+No. of red faces among second 64 cubes =64*3= 192
+
+Therefore, total number of red faces = 128 + 192 = 320
+
+
+
+26) How many cubes have only one red face each?
+
+a) 128
+
+b) 32
+
+c) 0
+
+d) None
+
+Ans: a
+
+
+
+Explanation:
+
+Out of 128 cubes, no cube has only one face as red.
+
+
+
+27) Which two colour shave the same number of faces?
+
+a) Red and Yellow
+
+b) Blue and Green
+
+c) Red and Green
+
+d) Red and Blue
+
+Ans: b
+
+
+
+Explanation:
+
+First 64 cubes are such each of whose two faces are green and second 64 cubes are such each of whose two faces are blue. Therefore, green and blue colors have the same number of faces.
+
+
+
+28) In a survey of university students, 64 had taken the mathematics course, 94 had taken the chemistry course, 58 had taken the physics course, 28 had taken mathematics and physics, 26 had taken mathematics and chemistry, 22 had taken chemistry and physics course, and 14 had taken all the three courses. Find how many had taken one course only.
+
+a) 106
+
+b) 120
+
+c) 123
+
+d) 96
+
+Ans: a
+
+
+
+Explanation:
+
+Number of students who had taken onlyMathematics =64 - [28+26-14] = 24
+
+Number of students who had taken onlyChemistry =94 - [26+22-14] = 60
+
+Number of students who had taken onlyPhysics =58 - [28+22-14] = 22
+
+Total students who had taken only one course = 24 +22+60 = 106
+
+
+
+Venn Diagrams 29-32:
+
+In the following figure, small square represents the persons who know English, triangle to those who know Marathi, big square to those who know Telugu and circle to those who know Hindi. In the different regions of the figures from 1 to 12 are given.
+
+
+
+29) How many persons can speak English and Hindi both the languages only?
+
+a) 5
+
+b) 8
+
+c) 7
+
+d) 18
+
+Ans: a
+
+
+
+Explanation:
+
+The number of persons who can speak English and Hindi both only is 5.
+
+
+
+30) How many persons can speak Marathi and Telugu both?
+
+a) 10
+
+b) 11
+
+c) 13
+
+d) None
+
+Ans: c
+
+
+
+Explanation: 6+7 = 13
+
+
+
+31) How many persons can speak only English?
+
+a) 9
+
+b) 12
+
+c) 7
+
+d) 19
+
+Ans: b
+
+
+
+Explanation:
+
+The number of persons who can speak English is 12.
+
+
+
+32) How many persons can speak all the languages?
+
+a) 1
+
+b) 8
+
+c) 2
+
+d) None
+
+Ans: d
+
+
+
+Explanation:
+
+There is no such person who can speak all the languages.
+
+
+
+33) The marked price of a radio is Rs 1,600. Rahul gives a successive discount of 10%, r% to the Pradeep. If Pradeep pays Rs 1.224 for the radio, find the value of r.
+
+a) 10%
+
+b) 20%
+
+c) 25%
+
+d) 15%
+
+Ans: d
+
+
+
+Explanation:
+
+Marked price of the article = Rs 1,600
+
+Therefore, Selling price = (100 - 10)% x (100 - r%) x 1600
+
+= (90/100) x [(100 - r) / 100] x 1600
+
+Given, 1224 = 9/10 x (100 - r) x 16
+
+=> 1224 x 10 / (9 x 16) = (100 r)
+
+85 = 100 - r
+
+r = 15%
+
+
+
+34) On selling a pencil at 5% loss and a book at 15% gain, Kiran gains Rs 7. If he sells the pencil at 5% gain and the book at 10% gain, then he gains Rs 13. The actual price of the book is:
+
+a) 100
+
+b) 80
+
+c) 90
+
+d) 400
+
+Ans: c
+
+
+
+Explanation:
+
+Let actual price of the book = Rs X
+
+Let actual price of the pen = Rs Y
+
+Therefore, ( X + 15% of X) + (Y 5% of Y) = X + Y + 7
+
+15X - 5Y = 700 .(i)
+
+Also (X + 10% of X) + (Y + 5% of Y) = X + Y + 13
+
+10X + 5Y = 1300
+
+Using (i) and (ii) we get X = 80, Y = 100
+
+Therefore, actual price of the book = Rs 80
+
+
+
+35) A shopkeeper marks the price of his goods at 25% higher than the original price. After that, he allows a discount of 12%. What profit or loss does he get?
+
+a) 10% Profit
+
+b) 15% profit
+
+c) 10% Loss
+
+d) 15% Loss
+
+Ans: a
+
+
+
+Explanation:
+
+Here, x = 25 and y = - 12
+
+Therefore, the net % change in value
+
+= ( x + y + xy/100) %
+
+= [25 - 12 + ( -12 x 25)/100]% or 10%
+
+Since the sign is positive, there is a profit of 10%
