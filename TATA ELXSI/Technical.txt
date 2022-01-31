@@ -1,0 +1,737 @@
+Tata Elxsi technical questions for the role of Embedded Engineer and Software Engineer are given below. These questions were asked in previous Tata Elxsi technical section.
+
+
+
+
+
+
+
+Tata Elxsi Technical questions - (Embedded Engineer)
+
+
+The Tata Elxsi technical questions asked for the role Embedded Engineer are given below. Students from ECE, EEE and E&I can ideally apply for this role as the Tata Elxsi technical questions will be based on their core subjects.
+
+
+
+Check the syllabus for TATA ELXSI Embedded engineer role
+
+
+
+1) CRO is in X-Y mode, sinusoidal inputs have 90 degrees phase difference between them. What will appear on the display?
+
+a) circle
+
+b) line
+
+c) ellipse
+
+d) triangular wave
+
+
+
+2) Ideal Power Supply has
+
+a) Zero internal resistance
+
+b) High O/P resistance
+
+c) High I/P resistance
+
+d) Low O/P resistance
+
+
+
+3) For the same peak value of current, which waveform will have least RMS value
+
+a) Sine
+
+b) Square
+
+c) Triangular
+
+d)Full wave rectified wave
+
+
+
+4) A basic memory cell of dynamic RAM
+
+a) Capacitance
+
+b) Flip-flop
+
+c) Transistor
+
+d) Transistor with Capacitor
+
+
+
+5) Ideal Power Supply has
+
+a) Zero internal resistance
+
+b) High O/P resistance
+
+c) High I/P resistance
+
+d) Low O/P resistance
+
+
+
+
+
+
+
+6) How many comparators are required in an n-bit flash ADC?
+
+a) 2^(n-1)
+
+b) (2^n)-1
+
+c) 2^n
+
+d) n
+
+
+
+10) The inverter can be produced with how many NAND gates?
+
+a) 1
+
+b) 2
+
+c) 3
+
+d) 4
+
+
+
+11) Which type of transmission line will have the maximum value of characteristic impedence ?
+
+a) OpenWire line
+
+b) Coaxial Cable
+
+c) Twin lead line
+
+d) None
+
+
+
+12) What is an EEPROM?
+
+a) Programmable transistor
+
+b) Transistor
+
+c) SRAM
+
+d) None of these
+
+
+
+13) The Maximum number of variables that can be represented in K-MAP?
+
+a) 3
+
+b) 5
+
+c) 7
+
+d) none of these
+
+
+
+14) The circuits in the 8085A that provide the arithmetic and logic functions are called the:
+
+a) CPU
+
+b) ALU
+
+c) I/O
+
+d) None of these
+
+
+
+15) Which of the following expressions is in the sum-of-products (SOP) form?
+
+a)(A+B)(C+D)
+
+b)(A)B(CD)
+
+c)AB(CD)
+
+d)AB+CD
+
+
+
+Tata Elxsi Technical questions - (CSE and related branches)
+
+
+1) Predict the output or error for the following:
+
+void main()
+
+{
+
+int const * p=5;
+
+printf("%d",++(*p));
+
+}
+
+A) 6
+
+B) 5
+
+C) Compile time error
+
+D) None
+
+Answer: d
+
+
+
+Explanation:
+
+Compiler error: Cannot modify a constant value. p is a pointer to a "constant integer". But we tried to change the value of the "constant integer".
+
+
+
+2) Predict the output or error for the following:
+
+int main()
+
+{
+
+char s[ ]="man";
+
+int i;
+
+for(i=0;s[ i ];i++)
+
+printf("%c%c%c%cn", s[i], *(s+i), *(i+s), i[s]);
+
+return 0;
+
+}
+
+A) mmmm
+
+aaaa
+
+nnnn
+
+B) mann
+
+mann
+
+mann
+
+C) mmma
+
+mmma
+
+mmma
+
+mmma
+
+D) Compile time error
+
+Answer: a
+
+
+
+Explanation:
+
+s[i], *(i+s), *(s+i), i[s] are all different ways of expressing the same idea. Generally,arrayname is the base address for that array. Here s is the base address. i is the index number/displacement from the base address. So, indicating it with * is same as s[i]. i[s] may be surprising. But in the case ofCit is same as s[i].
+
+
+
+3) Predict the output or error for the following:
+
+int main()
+
+{
+
+float me = 1.1;
+
+double you = 1.1;
+
+if(me==you)
+
+printf("TATA");
+
+else
+
+printf("TATA Elxsi");
+
+}
+
+A) TATA
+
+B) TATA Elxsi
+
+C) No Output
+
+D) Error
+
+Answer: b
+
+
+
+
+
+
+
+Explanation:
+
+For floating point numbers (float, double, long double) the values cannot be predicted exactly. Depending on the number of bytes, the precession with of the value represented varies. Float takes 4 bytes and long double takes 10 bytes. So float stores 0.9 with less precision than long double.
+
+
+
+Rule of Thumb:
+
+Never compare or at-least be cautious when using floating point numbers with relational operators (== , >, <, <=, >=,!= ) .
+
+
+
+4) Predict the output or error for the following:
+
+int main()
+
+{
+
+static int var = 5;
+
+printf("%d ",var--);
+
+if(var)
+
+main();
+
+}
+
+A) 5 4 3 2 1
+
+B) 1 2 3 4 5
+
+C)Infinite loop
+
+D)Error
+
+Answer: a
+
+
+
+Explanation:
+
+When static storage class is given, it is initialized once. The change in the value of a static variable is retained even between the function calls.
+
+
+
+5) Predict the output or error for the following:
+
+int main()
+
+{
+
+int c[ ]={2.8,3.4,4,6.7,5};
+
+int j,*p=c,*q=c;
+
+for(j=0;j<5;j++)
+
+{
+
+printf(" %d ",*c);
+
+++q;
+
+}
+
+for(j=0;j<5;j++)
+
+{
+
+printf(" %d ",*p);
+
+++p;
+
+}
+
+}
+
+A) 2 3 4 5 6 7 8 9 10
+
+B) 2 2 2 2 2 2 3 4 6 5
+
+C) Compile time error
+
+D) 2 3 4 6 5 2 3 4 6 5
+
+Answer: b
+
+
+
+Explanation:
+
+Initially pointer c is assigned to both p and q. In the first loop, since only q is incremented and not c, the value 2 will be printed 5 times. In second loop p itself is incremented. So the values 2 3 4 6 5 will be printed.
+
+
+
+6) Predict the output or error for the following:
+
+int main()
+
+{
+
+extern int i;
+
+i=20;
+
+printf("%d", i);
+
+}
+
+A) Error
+
+B) 20
+
+C) Garbage value
+
+D) 0
+
+Answer: a
+
+
+
+Explanation:
+
+Linker Error: Undefined symbol '_i'
+
+extern storage class in the following declaration, extern int i;
+
+specifies to the compiler that the memory for i is allocated in some other program and that address will be given to the current program at the time of linking. But linker finds that no other variable of name i is available in any other program with memory space allocated for it. Hence a linker error has occurred.
+
+
+
+7) Predict the output or error for the following:
+
+int main()
+
+{
+
+int i=-1, j=-1, k=0, l=2, m;
+
+m=i++ && j++ && k++ || l++;
+
+printf("%d %d %d %d %d", i, j, k, l, m);
+
+}
+
+A) 0 0 1 3 1
+
+B) -1 -1 0 2 1
+
+C) -1 -1 0 2 0
+
+D) Error
+
+Answer: a
+
+
+
+Explanation:
+
+Logical operations always give a result of 1 or 0. And also the logical AND (&&) operator has higher priority over the logical OR (||) operator. So the expression i++ && j++ && k++ is executed first. The result of this expression is 0 (-1 && -1 && 0 = 0). Now the expression is 0 || 2 which evaluates to 1 (because OR operator always gives 1 except for 0 || 0 combination- for which it gives 0). So the value of m is 1. The values of other variables are also incremented by 1.
+
+
+
+8) Predict the output or error for the following:
+
+int main()
+
+{
+
+char *p;
+
+printf("%d %d ",sizeof(*p),sizeof(p));
+
+}
+
+A) 1 1
+
+B) 1 2
+
+C) 1 8
+
+D) 2 4
+
+Answer: c
+
+
+
+Explanation:
+
+The size of() operator gives the number of bytes taken by its operand.
+
+*p refers the character stored and the size of any character is 1 byte.
+
+Size of any pointer variable will be either 4 bytes or 8 bytes based on the compiler (32 bit or 64 bit).
+
+
+
+9) Predict the output or error for the following:
+
+int main()
+
+{
+
+int i = 4;
+
+switch(i)
+
+{
+
+default: printf("zero");
+
+case 1: printf("one");
+
+break;
+
+case 2:printf("two");
+
+break;
+
+case 3: printf("three");
+
+break;
+
+}
+
+}
+
+A) zero one
+
+B) zero
+
+C) Compile time error
+
+D) No output
+
+Answer: a
+
+
+
+Explanation:
+
+The default case can be placed anywhere inside the loop. It is executed only when all other cases doesn't match.
+
+
+
+10) Predict the output or error for the following:
+
+int main()
+
+{
+
+printf("%x", -1<<4);
+
+}
+
+A)ffff
+
+B) fff0
+
+C) fff1
+
+D) Error
+
+Answer: b
+
+
+
+Explanation :
+
+-1 is internally represented as all 1's. When left shifted four times the least significant 4 bits are filled with 0's.The %x format specifier specifies that the integer valuebeprinted as a hexadecimal value.
+
+
+
+11) Predict the output or error for the following:
+
+int main()
+
+{
+
+char string[]="Hello World";
+
+display(string);
+
+}
+
+void display(char *string)
+
+{
+
+printf("%s", string);
+
+}
+
+A) Hello World
+
+B) Hello
+
+C) World
+
+D) Error
+
+
+
+Answer: d
+
+
+
+Explanation:
+
+Compiler Error: Type mismatch in re declaration of function display
+
+In the third line, when the function display is encountered, the compiler doesn't know anything about the function display. It assumes the arguments and return types to be integers, (which is the default type). When it sees the actual function display, the arguments and type contradicts with what it has assumed previously. Hence a compile-time error occurs.
+
+
+
+12) Predict the output or error for the following:
+
+int main()
+
+{
+
+int c=- -2;
+
+printf("%d", c);
+
+}
+
+A) 2
+
+B) -2
+
+C) 1
+
+D) Error
+
+Answer: a
+
+
+
+Explanation:
+
+Here unary minus (or negation) operator is used twice. Same maths rules applies, ie. minus * minus = plus.
+
+Note: However you cannot give like --2. Because -- operator can only be applied to variables as a decrement operator (eg.,i--). 2 is a constant and not a variable.
+
+
+
+13) Predict the output or error for the following:
+
+#define int char
+
+void main()
+
+{
+
+int i=65;
+
+printf("%d",sizeof(i));
+
+}
+
+A) 1
+
+B) 2
+
+C) Error
+
+D) Garbage Value
+
+Answer: a
+
+
+
+Explanation:
+
+Since the #define replaces the string int by the macro char.
+
+
+
+14) Predict the output or error for the following:
+
+int main()
+
+{
+
+int i =10;
+
+i = !i > 14;
+
+printf ("%d", i);
+
+}
+
+A) 1
+
+B) 14
+
+C) 0
+
+D) error
+
+Answer: c
+
+
+
+Explanation:
+
+In the expression !i>14 , NOT (!) operator has more precedence than > symbol. ! is a unary logical operator. !i (!10) is 0 (not of true is false). 0>14 is false (zero).
+
+
+
+15) Predict the output or error for the following:
+
+int main()
+
+{
+
+struct xx
+
+{
+
+int x=3;
+
+char name[]="hello";
+
+};
+
+struct xx *s;
+
+printf("%d", s->x);
+
+printf("%s", s->name);
+
+}
+
+A) 3hello
+
+B) 3h
+
+C) Compile time error
+
+D) Garbage value hello
+
+Answer: c
+
+
+
+Explanation:
+
+You should not initialize variables in
