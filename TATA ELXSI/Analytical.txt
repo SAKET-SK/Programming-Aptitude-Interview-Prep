@@ -1,0 +1,81 @@
+Syllogism:
+In syllogism questions, you need to arrive at the proper conclusion based on the given premises.
+
+Q1) 
+Statements:
+Some mangoes are yellow.
+Some apples are mangoes.
+
+Conclusions:
+(i) Some mangoes are green.
+(ii) Apples is yellow.
+
+a) Only conclusion (i) follows
+b) Only conclusion (ii) follows
+c) Either (i) or (ii) follows
+d) Neither (i) nor (ii) follows   <correct>
+
+--------------------------------------------------
+
+Q2)
+Statements:
+All tigers are rats.
+Some rats are lions.
+
+Conclusions:
+(i) Some tigers are lions.
+(ii) Some lions are tigers.
+
+a) Only conclusion (i) follows
+b) Only conclusion (ii) follows
+c) Either (i) or (ii) follows
+d) Neither (i) nor (ii) follows   <correct>
+
+--------------------------------------------------
+
+Q3)
+Statments:
+All pencils are bricks.
+All bricks are bottles.
+
+Conclusions:
+(i) All pencils are bottles.
+(ii) All bricks are pencils.
+
+a) Only conclusion (i) follows   <correct>
+b) Only conclusion (ii) follows
+c) Either (i) or (ii) follows
+d) Neither (i) nor (ii) follows
+
+--------------------------------------------------
+
+Q4)
+Statments:
+All harry are birds.
+All birds are crows.
+All crows are cats.
+
+Conclusions:
+a) All birds are cats
+b) All crows are harry
+
+a) If only conclusion I is true.     <correct>
+b) If only conclusion II is true.
+c) If either conclusion I or II is true.
+d) If neither conclusion I nor conclusion II is true.
+
+--------------------------------------------------
+
+Q5) 
+Statements:
+Some cows are crows.
+Some crows are elephants.
+
+Conclusion:
+(i) Some cows are elephants.
+(ii) All crows are elephants.
+
+a) Only conclusion (i) follows    <correct>
+b) Only conclusion (ii) follows
+c) Either (i) or (ii) follows
+d) Neither (i) nor (ii) follows
