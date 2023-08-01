@@ -18,3 +18,21 @@ print("Output:", result1)  # Output: 7
 arr2 = [1, 8, 0, 2, 3, 5, 6]
 result2 = LargeSmallSum(arr2)
 print("Output:", result2)  # Output: 8
+#or in function  
+    even_pos = []
+    odd_pos = []
+
+    for i in range(len(arr)):
+        if i % 2 == 0:
+            even_pos.append(arr[i])
+        else:
+            odd_pos.append(arr[i])
+
+    even_pos.sort()
+    odd_pos.sort()
+
+    return even_pos[-2] + odd_pos[1]
+
+
+print(LargeSmallSum(arr))  # Output: 16
+
