@@ -1,5 +1,8 @@
 # My Ultimate Programming and Interview Preparation Repository
-### My collected programming aptitude questions and answers for preparation and to understand the logic building. Contributors are welcome to add new questions based on companies and solutions. ⭐ Currently thinking of adding a section based on the interview experience in different companies ⭐. Just raise a Pull Request in case of your contribution.
+### My collected programming aptitude questions and answers for preparation and to understand the logic building. Contributors are welcome to add new questions based on companies and solutions. 
+⭐ <b>Currently thinking of adding a section based on the interview experience in different companies</b> ⭐
+<br>
+Just raise a Pull Request in case of your contribution.
 ## Important Links:
 1) https://prepinsta.com/cognizant/coding-questions/
 2) https://www.programmingprep.com/cognizant-coding-questions/
