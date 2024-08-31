@@ -3,7 +3,7 @@
 ⭐ <b>Currently thinking of adding a section based on the interview experience in different companies</b> ⭐
 <br>
 Just raise a Pull Request in case of your contribution.
-## Important Links:
+## Important Links for Resources:
 1) https://prepinsta.com/cognizant/coding-questions/
 2) https://www.programmingprep.com/cognizant-coding-questions/
 3) https://prepinsta.com/cognizant-genc-next/coding-questions/
