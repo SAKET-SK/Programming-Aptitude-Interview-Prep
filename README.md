@@ -68,7 +68,4 @@ Contributions are welcome! If you’d like to contribute:
 3) Make your changes and commit them.
 4) Raise a Pull Request and explain the changes you made.
 
----
 
-## License:
-This repository is licensed under the MIT License. Feel free to use and contribute.
