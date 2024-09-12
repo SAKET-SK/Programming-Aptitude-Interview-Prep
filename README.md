@@ -8,7 +8,7 @@ Just raise a Pull Request to contribute with a mission to help as much as freshe
 
 ---
 
-## Important Links for Resources:
+## Important Links for Prep Resources:
 
 ### Company-Specific Coding Questions
 1) [Cognizant Coding Questions - PrepInsta](https://prepinsta.com/cognizant/coding-questions/)
