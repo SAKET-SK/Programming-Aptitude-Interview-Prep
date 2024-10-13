@@ -4,7 +4,7 @@
 
 ⭐ **Currently thinking of adding a section based on interview experiences at different companies** ⭐
 
-Just raise a Pull Request to contribute with a mission to help as much as fresher level job-seekers as possible. Happy Coding!!
+🚀 Just raise a Pull Request to contribute with a mission to help as much as fresher level job-seekers as possible. Happy Coding!!
 
 ---
 
